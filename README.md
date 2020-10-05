@@ -25,29 +25,6 @@
 - 🙋‍♀️ **A Job Seeker**.
   Last but not least, I am looking for a job right now. A job where I can use my knowledge to become a "magician" by making any meaningful changes to my community! Please reach out if you have one!🥰
 
-## What am I currently working on? 
-
-- 🛠 **A Project**.
-
-  Currently I am working on building the Inhouse Orders Marketing Website. It is a private repo but here is the presentation: <https://inhouseorders.io/>. 
-  
-  It is a platform for our restaurant owners customers to access their data analytics, update their restaurant information on their website. I wrote a Gatsby version and now is rewriting it witn Next.js. Just added internationalization feature so as to benefit our Chinese customers and planning to add more tools for owners to manage their business. 
-
-- 👁‍✏ **A Book**.
-
-  *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
-
-- 📚 **A Class**.
-
-  *Object Oriented Software Engineering* at Regis University
-
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] <br /><br />
-📧 <chanwk18@hotmail.com>
-
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -80,6 +57,22 @@
 <br />
 <br />
 
+## What am I currently working on? 
+
+- 🛠 **A Project**.
+
+  Currently I am working on building the Inhouse Orders Marketing Website. It is a private repo but here is the presentation: <https://inhouseorders.io/>. 
+  
+  It is a platform for our restaurant owners customers to access their data analytics, update their restaurant information on their website. I wrote a Gatsby version and now is rewriting it witn Next.js. Just added internationalization feature so as to benefit our Chinese customers and planning to add more tools for owners to manage their business. 
+
+- 👁‍✏ **A Book**.
+
+  *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
+
+- 📚 **A Class**.
+
+  *Object Oriented Software Engineering* at Regis University
+
 
 ### 📕 Latest Blog Posts
 
@@ -97,6 +90,12 @@
 ➡️ [more blog posts...](https://medium.com/@chanwingkeihaha)
 
 ---
+
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] <br /><br />
+📧 <chanwk18@hotmail.com>
 
 [medium]: https://medium.com/@chanwingkeihaha
 [linkedin]: https://www.linkedin.com/in/yingqi-chen/
