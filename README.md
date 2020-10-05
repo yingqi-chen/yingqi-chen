@@ -1,5 +1,4 @@
-# Hi there, I'm Yingqi 👋 
-# Looking for My Next Career Opportunity!
+# Hi there, I'm Yingqi 👋 <br /> Looking for My Next Career Opportunity!
 
 ## Who am I?
 
@@ -53,14 +52,26 @@
 
 <img align="left" alt="NextJs" width="26px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
 
-next.js
-firebase
-postgresql
-ruby
-express
-sqlite3
+<img align="left" alt="sqlite" width="26px" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />
 
-<br />
+<img align="left" alt="Express" width="26px" src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" />
+
+<img align="left" alt="Ruby" width="26px" src="https://seeklogo.com/images/R/ruby-logo-087AF79367-seeklogo.com.jpg" />
+
+<img align="left" alt="PostgreSQL" width="26px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" />
+
+<img align="left" alt="Firebase" width="26px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
+
+<img align="left" alt="Rails" width="26px" src="https://seeklogo.com/images/R/rails-logo-DD0927D290-seeklogo.com.png" />
+
+<img align="left" alt="Redux" width="26px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
+
+<img align="left" alt="Sinatra" width="26px" src="https://seeklogo.com/images/S/sinatra-logo-565ADC36BE-seeklogo.com.jpg" />
+
+<img align="left" alt="Sinatra" width="26px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.pngg" />
+
 <br />
 
 
