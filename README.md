@@ -27,11 +27,27 @@
 
 ## What am I currently working on? 
 
+- A Project.
+  Currently I am working on building the Inhouse Orders Marketing Website. It is a private repo but here is the presentation: <https://inhouseorders.io/>. 
+  
+  It is a platform for our restaurant owners customers to access their data analytic, update their restaurant information on their website and monitor their online business. 
+
+    1. Used Firebase’database, cloud functions, authentication as the backend
+    2. Used Material-UI to style frontend
+    3. Just Added internationalization feature so as to benefit our Chinese customers
+    4. Planning to add more tools for owners to manage their business. 
+
+- A Book.
+
+<img align="left" alt="HTML5" src="https://images-na.ssl-images-amazon.com/images/I/513wZ6-FJIL._SX373_BO1,204,203,200_.jpg" />
+
+- A Class.
+
 ### Connect with me:
 
-📧 <chanwk18@hotmail.com><br />
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] <br />
+📧 <chanwk18@hotmail.com>
 
 <br />
 
