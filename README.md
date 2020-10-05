@@ -23,15 +23,15 @@
 - 🤸‍♀️ An Adventurer.
 
   From an editor in China to a software engineer in America, I love to explore any possibilities. That's why I love software engineering because of the infinite possibilities it creates for the future!
-  
+
 - 🙋‍♀️ A Job Seeker.
   Last but not least, I am looking for a job right now. A job where I can use my knowledge to become a "magician" by making any meaningful changes to my community! Please reach out if you have one!🥰
 
 ## What am I currently working on? 
 
 ### Connect with me:
-email
 
+📧 <chanwk18@hotmail.com>
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
