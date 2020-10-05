@@ -2,48 +2,49 @@
 
 ## Who am I? 
 
-- 💻 A Coder.
+- 💻 **A Coder**.
 
   First, I am a coder. Coding always seems to be a magic to me, it changes the community every day! I want to be one of them to change my community even by a bit with my coding knowledge!
 
-- 🌞 A Software Engineer.
+- 🌞 **A Software Engineer**.
 
   I start as a coder. But I realize it takes more than coding to make magic happen! So I am learning more about the SDLC through my master program at Regis University. 
 
-- ✍ A Learner. 
+- ✍ **A Learner**. 
 
   I started my development journey from teaching myself coding with online resources. Then the eagerness in mastering the multifaceted power of software develoment motivates me to finish Flatiron School's Full Stack Development Program and start my master program on software engineering. I am forever learning!
 
-- 🕶 A Challenger.
+- 🕶 **A Challenger**.
 
   I am excited by challenges--Challenges are the opportunities for me to learn and grow more!
 
-- 🤸‍♀️ An Adventurer.
+- 🤸‍♀️ **An Adventurer**.
 
   From an editor in China to a software engineer in America, I love to explore any possibilities. That's why I love software engineering because of the infinite possibilities it creates for the future!
 
-- 🙋‍♀️ A Job Seeker.
+- 🙋‍♀️ **A Job Seeker**.
   Last but not least, I am looking for a job right now. A job where I can use my knowledge to become a "magician" by making any meaningful changes to my community! Please reach out if you have one!🥰
 
 ## What am I currently working on? 
 
-- 🛠 A Project.
+- 🛠 **A Project**.
+
   Currently I am working on building the Inhouse Orders Marketing Website. It is a private repo but here is the presentation: <https://inhouseorders.io/>. 
   
   It is a platform for our restaurant owners customers to access their data analytics, update their restaurant information on their website. I wrote a Gatsby version and now is rewriting it witn Next.js. Just added internationalization feature so as to benefit our Chinese customers and planning to add more tools for owners to manage their business. 
 
-- 👁‍🗨 A Book.
+- 👁‍✏ **A Book**.
 
   *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
 
-- 📚 A Class.
+- 📚 **A Class**.
 
   *Object Oriented Software Engineering* at Regis University
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] <br />
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] <br /><br />
 📧 <chanwk18@hotmail.com>
 
 <br />
