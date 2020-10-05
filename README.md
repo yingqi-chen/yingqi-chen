@@ -70,8 +70,9 @@
 
 <img align="left" alt="Sinatra" width="26px" src="https://seeklogo.com/images/S/sinatra-logo-565ADC36BE-seeklogo.com.jpg" />
 
-<img align="left" alt="Sinatra" width="26px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.pngg" />
+<img align="left" alt="Sinatra" width="26px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" />
 
+<br />
 <br />
 
 
