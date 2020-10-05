@@ -45,8 +45,7 @@
 <img align="left" alt="Expressjs" width="26px" src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/
-gatsby.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="NextJs" width="26px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
 
 <img align="left" alt="Ruby" width="26px" src="https://seeklogo.com/images/R/ruby-logo-087AF79367-seeklogo.com.jpg" />
