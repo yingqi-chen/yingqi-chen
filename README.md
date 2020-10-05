@@ -38,8 +38,11 @@
     4. Planning to add more tools for owners to manage their business. 
 
 - A Book.
+<div>
 
 <img align="left" alt="HTML5" src="https://images-na.ssl-images-amazon.com/images/I/513wZ6-FJIL._SX373_BO1,204,203,200_.jpg" /> <br /><br />
+
+</div>
 
 - A Class.
 
