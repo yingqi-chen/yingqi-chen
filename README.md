@@ -73,8 +73,9 @@
 
   *Object Oriented Software Engineering* at Regis University
 
+<br />
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Weekly Notes/Thoughts: Static Modeling in Software Engineering](https://medium.com/@chanwingkeihaha/weekly-notes-thoughts-static-modeling-in-software-engineering-982bc97a2d3a?source=rss-347473b9fec6------2)
