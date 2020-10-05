@@ -39,7 +39,7 @@
 
 - A Book.
 
-<img align="left" alt="HTML5" src="https://images-na.ssl-images-amazon.com/images/I/513wZ6-FJIL._SX373_BO1,204,203,200_.jpg" />
+<img align="left" alt="HTML5" src="https://images-na.ssl-images-amazon.com/images/I/513wZ6-FJIL._SX373_BO1,204,203,200_.jpg" /> <br /><br />
 
 - A Class.
 
