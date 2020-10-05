@@ -1,6 +1,6 @@
 # Hi there, I'm Yingqi 👋 <br /> Looking for My Next Career Opportunity!
 
-## Who am I?
+## Who am I? 
 
 - 💻 A Coder.
 
@@ -27,24 +27,18 @@
 
 ## What am I currently working on? 
 
-- A Project.
+- 🛠 A Project.
   Currently I am working on building the Inhouse Orders Marketing Website. It is a private repo but here is the presentation: <https://inhouseorders.io/>. 
   
-  It is a platform for our restaurant owners customers to access their data analytic, update their restaurant information on their website and monitor their online business. 
+  It is a platform for our restaurant owners customers to access their data analytics, update their restaurant information on their website. I wrote a Gatsby version and now is rewriting it witn Next.js. Just added internationalization feature so as to benefit our Chinese customers and planning to add more tools for owners to manage their business. 
 
-    1. Used Firebase’database, cloud functions, authentication as the backend
-    2. Used Material-UI to style frontend
-    3. Just Added internationalization feature so as to benefit our Chinese customers
-    4. Planning to add more tools for owners to manage their business. 
+- 👁‍🗨 A Book.
 
-- A Book.
-<span style="display:block">
+  *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
 
-<img align="left" alt="HTML5" src="https://images-na.ssl-images-amazon.com/images/I/513wZ6-FJIL._SX373_BO1,204,203,200_.jpg" /> <br /><br />
+- 📚 A Class.
 
-</span>
-
-- A Class.
+  *Object Oriented Software Engineering* at Regis University
 
 ### Connect with me:
 
