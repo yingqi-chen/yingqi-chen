@@ -47,7 +47,6 @@
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] <br /><br />
 📧 <chanwk18@hotmail.com>
 
-<br />
 
 ### Languages and Tools:
 
