@@ -1,6 +1,21 @@
-# Hi there, I'm Yingqi 👋
+# Hi there, I'm Yingqi 👋 Looking for My Next Career Opportunity!
 
-personal introduction
+## Who am I?
+
+- 💻 A Coder.
+  First, I am a coder. Coding always seems to be a magic to me, it changes the community every day! I want to be one of them to change my community even by a bit with my coding knowledge!
+- 🌞 A Software Engineer.
+  I start as a coder. But I realize it takes more than coding to make magic happen! So I am learning more about the SDLC through my master program at Regis University. 
+- ✍ A Learner. 
+  I started my development journey from teaching myself coding with online resources. Then the eagerness in mastering the multifaceted power of software develoment motivates me to finish Flatiron School's Full Stack Development Program and start my master program on software engineering. I am forever learning!
+- 🕶 A Challenger.
+  I am excited by challenges--Challenges are the opportunities for me to learn and grow more!
+- 🤸‍♀️ An Adventurer.
+  From an editor in China to a software engineer in America, I love to explore any possibilities. That's why I love software engineering because of the infinite possibilities it creates for the future!
+- 🙋‍♀️ A Job Seeker.
+  Last but not least, I am looking for a job right now. A job where I can use my knowledge to become a "magician" by making any meaningful changes to my community! Please reach out if you have one!🥰
+
+## What am I currently working on? 
 
 ### Connect with me:
 email
