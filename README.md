@@ -42,7 +42,7 @@ sqlite3
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/feed/@chanwingkeihaha)
+➡️ [more blog posts...](https://medium.com/@chanwingkeihaha)
 
 ---
 
