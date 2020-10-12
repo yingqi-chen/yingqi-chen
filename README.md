@@ -78,6 +78,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes/Thoughts: Static Modeling vs Dynamic Modeling](https://medium.com/@chanwingkeihaha/weekly-notes-thoughts-static-modeling-vs-dynamic-modeling-8c37d984ef71?source=rss-347473b9fec6------2)
 - [Weekly Notes/Thoughts: Static Modeling in Software Engineering](https://medium.com/@chanwingkeihaha/weekly-notes-thoughts-static-modeling-in-software-engineering-982bc97a2d3a?source=rss-347473b9fec6------2)
 - [Weekly thoughts: What is the difference between Functional and Non-Functional requirements?](https://medium.com/@chanwingkeihaha/weekly-thoughts-what-is-the-difference-between-functional-and-non-functional-requirements-48e26e13b28f?source=rss-347473b9fec6------2)
 - [My weekly thoughts/notes from my MSSE program courses](https://medium.com/@chanwingkeihaha/my-weekly-thoughts-notes-from-my-msse-program-courses-1a8515335448?source=rss-347473b9fec6------2)
