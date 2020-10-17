@@ -86,7 +86,6 @@
 - [Fetch data from the database/API in React with useEffect and useState](https://medium.com/datadriveninvestor/fetch-data-from-the-database-api-in-react-with-useeffect-and-usestate-af11468cdb14?source=rss-347473b9fec6------2)
 - [How to use Firebase UI to control data flow after signing in successfully(redirect or stay?)](https://medium.com/swlh/how-to-use-firebase-ui-to-control-data-flow-after-signing-in-successfully-redirect-or-stay-10ff238cef70?source=rss-347473b9fec6------2)
 - [Gatsby’s Global State Management With React’s Context](https://medium.com/swlh/gatsbys-global-state-management-with-react-s-context-5f8064e93351?source=rss-347473b9fec6------2)
-- [Use Formik+Yup to create a multi-step React form part 3: build multi-step form](https://medium.com/@chanwingkeihaha/use-formik-yup-to-create-a-multi-step-react-form-part-3-build-multi-step-form-7fe5b5b56181?source=rss-347473b9fec6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chanwingkeihaha)
