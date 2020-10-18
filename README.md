@@ -78,6 +78,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Add a translation feature to your Next.js App Part 1: Set up the next-i18next package](https://medium.com/swlh/add-a-translation-feature-to-your-next-js-app-part-1-set-up-the-next-i18next-package-4a4788cb98ba?source=rss-347473b9fec6------2)
 - [Weekly Notes/Thoughts: Static Modeling vs Dynamic Modeling](https://medium.com/@chanwingkeihaha/weekly-notes-thoughts-static-modeling-vs-dynamic-modeling-8c37d984ef71?source=rss-347473b9fec6------2)
 - [Weekly Notes/Thoughts: Static Modeling in Software Engineering](https://medium.com/@chanwingkeihaha/weekly-notes-thoughts-static-modeling-in-software-engineering-982bc97a2d3a?source=rss-347473b9fec6------2)
 - [Weekly thoughts: What is the difference between Functional and Non-Functional requirements?](https://medium.com/@chanwingkeihaha/weekly-thoughts-what-is-the-difference-between-functional-and-non-functional-requirements-48e26e13b28f?source=rss-347473b9fec6------2)
@@ -85,7 +86,6 @@
 - [Handle global state in a Gatsby app without using Redux](https://medium.com/@chanwingkeihaha/handle-global-state-in-a-gatsby-app-without-using-redux-8a8ea712b2b1?source=rss-347473b9fec6------2)
 - [Fetch data from the database/API in React with useEffect and useState](https://medium.com/datadriveninvestor/fetch-data-from-the-database-api-in-react-with-useeffect-and-usestate-af11468cdb14?source=rss-347473b9fec6------2)
 - [How to use Firebase UI to control data flow after signing in successfully(redirect or stay?)](https://medium.com/swlh/how-to-use-firebase-ui-to-control-data-flow-after-signing-in-successfully-redirect-or-stay-10ff238cef70?source=rss-347473b9fec6------2)
-- [Gatsby’s Global State Management With React’s Context](https://medium.com/swlh/gatsbys-global-state-management-with-react-s-context-5f8064e93351?source=rss-347473b9fec6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chanwingkeihaha)
