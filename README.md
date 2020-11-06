@@ -78,7 +78,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Add a translation feature to your Next.js App Part 2: manually switch languages](https://medium.com/swlh/add-a-translation-feature-to-your-next-js-app-part-2-manually-switch-languages-e308b1ec576a?source=rss-347473b9fec6------2)
+- [Add a Translation Feature to Your Next.JS App Part 2: Manually Switch Languages](https://medium.com/swlh/add-a-translation-feature-to-your-next-js-app-part-2-manually-switch-languages-e308b1ec576a?source=rss-347473b9fec6------2)
 - [Add a translation feature to your Next.js App](https://medium.com/javascript-in-plain-english/add-a-translation-feature-to-your-next-js-app-part-1-set-up-the-next-i18next-package-4a4788cb98ba?source=rss-347473b9fec6------2)
 - [Weekly Notes/Thoughts: Static Modeling vs Dynamic Modeling](https://medium.com/@chanwingkeihaha/weekly-notes-thoughts-static-modeling-vs-dynamic-modeling-8c37d984ef71?source=rss-347473b9fec6------2)
 - [Weekly Notes/Thoughts: Static Modeling in Software Engineering](https://medium.com/@chanwingkeihaha/weekly-notes-thoughts-static-modeling-in-software-engineering-982bc97a2d3a?source=rss-347473b9fec6------2)
