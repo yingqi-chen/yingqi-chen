@@ -1,4 +1,4 @@
-# Hi there, I'm Yingqi 👋 <br /> Looking for My Next Career Opportunity!
+# Hi there, I'm Yingqi 👋 <br />
 
 ## Who am I? 
 
