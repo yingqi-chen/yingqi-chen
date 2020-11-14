@@ -22,8 +22,6 @@
 
   From an editor in China to a software engineer in America, I love to explore any possibilities. That's why I love software engineering because of the infinite possibilities it creates for the future!
 
-- 🙋‍♀️ **A Job Seeker**.
-  Last but not least, I am looking for a job right now. A job where I can use my knowledge to become a "magician" by making any meaningful changes to my community! Please reach out if you have one!🥰
 
 ### Languages and Tools:
 
