@@ -57,19 +57,13 @@
 
 ## What am I currently working on? 
 
-- 🛠 **A Project**.
-
-  Currently I am working on building the Inhouse Orders Marketing Website. It is a private repo but here is the presentation: <https://inhouseorders.io/>. 
-  
-  It is a platform for our restaurant owners customers to access their data analytics, update their restaurant information on their website. I wrote a Gatsby version and now is rewriting it witn Next.js. Just added internationalization feature so as to benefit our Chinese customers and planning to add more tools for owners to manage their business. 
-
 - 👁‍✏ **A Book**.
 
-  *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
+  *publisher logoLearning PHP, MySQL & JavaScript, 5th Edition* by **Robin Nixon**
 
 - 📚 **A Class**.
 
-  *Object Oriented Software Engineering* at Regis University
+  *Web Software Development* at Regis University
 
 <br />
 
