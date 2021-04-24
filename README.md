@@ -65,14 +65,17 @@
 
   *Web Software Development* at Regis University
   
-## Just a peek at what I have done recently:
+## My Trip 🚀🛸🚗🚛🚲🛴🛹🏎✈🛳 
 
 - **Books**.
+
  *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
 
 - **Classes**.
 
   *Object Oriented Software Engineering* at Regis University
+  
+  *Software Engineering Program* at Flatiron School
 
 <br />
 
@@ -97,7 +100,6 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] <br /><br />
-📧 <chanwk18@hotmail.com>
 
 [medium]: https://medium.com/@chanwingkeihaha
 [linkedin]: https://www.linkedin.com/in/yingqi-chen/
