@@ -64,6 +64,15 @@
 - 📚 **A Class**.
 
   *Web Software Development* at Regis University
+  
+## Just a peek at what I have done recently:
+
+- **Books**.
+ *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
+
+- **Classes**.
+
+  *Object Oriented Software Engineering* at Regis University
 
 <br />
 
