@@ -59,7 +59,7 @@
 
 - 👁‍✏ **A Book**.
 
-  *publisher logoLearning PHP, MySQL & JavaScript, 5th Edition* by **Robin Nixon**
+  *Learning PHP, MySQL & JavaScript, 5th Edition* by **Robin Nixon**
 
 - 📚 **A Class**.
 
@@ -69,7 +69,7 @@
 
 - **Books**.
 
- *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
+  *Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures* by **Hassan Gomaa**
 
 - **Classes**.
 
